@@ -7,4 +7,4 @@ Este proyecto consiste en una página web creada como parte de un proyecto escol
 
 ## Autor
 
-EL MEJOR ALUMNO DE MAVIR Alvaro Matías Ríos Canedo
+EL MEJOR ALUMNO DE MAVIR Alvaro Matías RIos Canedo
